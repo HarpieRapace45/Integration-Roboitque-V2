@@ -1,0 +1,1 @@
+/home/etudiant/Integration-Roboitque-V2/catkin_ws/devel/.private/motoman_msgs/share/roseus/ros/motoman_msgs/srv/WriteMRegister.l

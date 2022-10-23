@@ -1,0 +1,1 @@
+/home/etudiant/Integration-Roboitque-V2/catkin_ws/devel/.private/hc10_moveit_config/lib/pkgconfig/hc10_moveit_config.pc

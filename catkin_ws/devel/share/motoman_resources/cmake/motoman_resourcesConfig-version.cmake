@@ -1,0 +1,1 @@
+/home/etudiant/Integration-Roboitque-V2/catkin_ws/devel/.private/motoman_resources/share/motoman_resources/cmake/motoman_resourcesConfig-version.cmake
