@@ -471,8 +471,8 @@ CMakeFiles/doxygen.dir/clean:
 # Target rules for target CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir
 
 # All Build rule for target.
-CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/all: CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check_test_roslaunch_test_hc10dt_b10.xml.dir/all
 CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/all: CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check_test_roslaunch_test_hc10dt.xml.dir/all
+CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/all: CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check_test_roslaunch_test_hc10dt_b10.xml.dir/all
 CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/all: CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check_test_roslaunch_test_hc10.xml.dir/all
 	$(MAKE) -f CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/build.make CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/depend
 	$(MAKE) -f CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/build.make CMakeFiles/run_tests_motoman_hc10_support_roslaunch-check.dir/build
