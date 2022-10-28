@@ -60,8 +60,8 @@ while len(scene.get_known_object_names())<3:
 print(plan)
 move_group.execute(plan, wait=True)
 
-#scene.remove_world_object(nom_box_1)
-#scene.remove_world_object(nom_box_2)
+scene.remove_world_object(nom_box_1)
+scene.remove_world_object(nom_box_2)
 
 print(scene.get_known_object_names())
 rospy.sleep(2)
