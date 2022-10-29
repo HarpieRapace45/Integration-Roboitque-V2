@@ -2,7 +2,7 @@
 
 ## Installation
 
-en premier lieu, vous devez cloner le dépot dans le dossier que vous désirez : 
+En premier lieu, vous devez cloner le dépot dans le dossier que vous désirez : 
   - https://github.com/HarpieRapace45/Integration-Roboitque-V2.git
   
 par le suite vous devez configurer ros sur votre machine, si il n'est pas installer, suivez le tuto suivant : http://wiki.ros.org/noetic/Installation/Ubuntu
@@ -31,7 +31,7 @@ catkin build
 . devel/setup.bash
 
 ## création du package 
-en premier, dans un nouveau terminal, vous devez avoir un roscore qui tourne pendant l'ensemble de vos manipulation sur ce projet : 
+en premier, dans un nouveau terminal, vous devez avoir un roscore qui tourne pendant l'ensemble de vos manipulations sur ce projet : 
    - . /opt/ros/noetic/setup.bash
    - roscore
 
@@ -59,6 +59,6 @@ dans le second il vous suffit de d'éxécuter le code python qui est dans le pro
   
 ## Simulation dans Gazebo (non terminer) 
 
-Pour cette parti, il vous suffit d'éxécuter cette commande pour que Rviz et Gazebo se lance :
+Pour cette partie, il vous suffit d'éxécuter cette commande pour que Rviz et Gazebo se lance :
   - roslaunch hc10_moveit_config demo_gazebo.launch
   
