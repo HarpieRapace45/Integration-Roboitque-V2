@@ -40,7 +40,7 @@ vous pouvez creer un package ou utiliser celui déjà dans le dossier pour la pl
   
 ensuite, vous pouvez soit editer le package déjà existant avec "Edit Existing Moveit Configuration Package" et allez selection le dossier ./src/hc10_moveit_config  ou alors vous pouvez créer un nouveau package en cliquant sur le bouton "Create New Moveilt Configuration Package" et en allant chercher le fichier urdf à cette emplacement :  ./src/motoman/motoman_hc10_support/urdf/hc10.xacro
 
-une fois le package modifier ou créer, vous devez rebuild le projet avec cette serie de commande à réalisé à la racine du projet ros ( ./catkin_ws ) : 
+Une fois le package modifié ou créé, vous devez rebuild le projet avec cette série de commande à réaliser à la racine du projet ros ( ./catkin_ws ) : 
   catkin clean
   catkin build
   . devel/setup.bash
